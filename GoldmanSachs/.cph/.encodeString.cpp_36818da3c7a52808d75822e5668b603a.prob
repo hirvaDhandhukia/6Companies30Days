@@ -1,0 +1,1 @@
+{"name":"Local: encodeString","url":"/home/hirva/Documents/GitHub/6Companies30Days/GoldmanSachs/encodeString.cpp","tests":[{"id":1641586793945,"input":"aaaabbbcc","output":"a4b3c2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hirva/Documents/GitHub/6Companies30Days/GoldmanSachs/encodeString.cpp","group":"local","local":true}
