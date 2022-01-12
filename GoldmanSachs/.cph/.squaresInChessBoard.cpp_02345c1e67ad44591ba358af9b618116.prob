@@ -1,0 +1,1 @@
+{"name":"Local: squaresInChessBoard","url":"/home/hirva/Documents/GitHub/6Companies30Days/GoldmanSachs/squaresInChessBoard.cpp","tests":[{"id":1641977560915,"input":"1\n2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hirva/Documents/GitHub/6Companies30Days/GoldmanSachs/squaresInChessBoard.cpp","group":"local","local":true}
